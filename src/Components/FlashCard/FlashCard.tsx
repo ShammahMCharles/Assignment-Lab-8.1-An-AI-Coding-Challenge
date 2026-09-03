@@ -32,7 +32,7 @@ const handleCardClick = () => {
       )}
     >
       {/* Flip badge */}
-      <div className="absolute top-2 right-2 z-10 rounded-full bg-[#0b5599] px-2 py-[2px] text-xs font-medium text-white shadow">
+      <div className="absolute top-2 right-2 z-10 rounded-full bg-[#0b5599] px-2 py-0.5 text-xs font-medium text-white shadow">
         Click to Flip
       </div>
 
