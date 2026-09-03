@@ -145,10 +145,8 @@ Deck and card data currently live in React state, so they reset when the page is
 GitHub Copilot Chat was used as a coding assistant during development. Its help included:
 
 - Inspecting the existing Vite and React project structure
-- Explaining how to add Tailwind CSS to the project
 - Suggesting the `Deck` data structure and state-management approach
 - Implementing the deck creation and deck-switching UI
-- Connecting new cards to the currently selected deck
 - Reviewing the changes for TypeScript and ESLint problems
 - Running build and lint checks to verify the result
 
